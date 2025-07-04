@@ -1,3 +1,3 @@
-mxlogin.netlify.app
+[mxlogin.netlify.app](https://mxlogin.netlify.app/)
 
 Log In sahifasini ko'rish uchun sahifa...
